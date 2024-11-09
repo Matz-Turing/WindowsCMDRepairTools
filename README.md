@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-Este repositório contém uma coleção de comandos do Prompt de Comando (CMD) utilizados para diagnosticar e corrigir diversos problemas no sistema operacional Windows 11. Esses comandos são ferramentas essenciais para administradores de sistemas e usuários avançados que desejam corrigir problemas sem a necessidade de softwares de terceiros. Os comandos listados aqui são compatíveis com várias versões do Windows e podem ser aplicados para corrigir erros relacionados a arquivos corrompidos, discos rígidos com falhas e problemas de rede.
+Este repositório contém uma coleção de comandos do Prompt de Comando (CMD) utilizados para diagnosticar e corrigir diversos problemas no sistema operacional Windows. Esses comandos são ferramentas essenciais para administradores de sistemas e usuários avançados que desejam corrigir problemas sem a necessidade de softwares de terceiros. Os comandos listados aqui são compatíveis com várias versões do Windows e podem ser aplicados para corrigir erros relacionados a arquivos corrompidos, discos rígidos com falhas e problemas de rede.
 
 ## Comandos do CMD: Descrição Completa, Benefícios e Casos de Uso
 
